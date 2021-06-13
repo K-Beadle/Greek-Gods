@@ -1,2 +1,2 @@
-# Belly-Button-Biodiversity
+# Greek-Gods
 Gathering data from an experiment to analyze bacterial species found in the belly button.
